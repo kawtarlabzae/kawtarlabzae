@@ -25,10 +25,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawtarlabzae&langs_count=5&theme=tokyonight&layout=compact" height="150" />
   </a>
   <br>
-  <!-- Activity graph (sometimes requires re-deploy or may need an alternative if unresponsive) -->
-  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=kawtarlabzae&theme=rogue" width="50%" height="200" alt="GitHub Activity Graph" />
-  </a>
+ <!-- Activity graph replacement -->
+<img 
+  src="https://github-readme-activity-graph.cyclic.app/graph?username=kawtarlabzae&theme=rogue" 
+  width="50%" 
+  height="200" 
+  alt="GitHub Activity Graph" 
+/>
+
 </div>
 
 <hr>
