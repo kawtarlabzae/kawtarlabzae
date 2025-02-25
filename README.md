@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <b>I'm passionate about building software that solves real-world problems and continuously learning and exploring new technologies.</b>
+  <b>Passion</b>
 </p>
 
 <hr>
