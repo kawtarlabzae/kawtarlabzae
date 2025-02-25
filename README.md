@@ -22,13 +22,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawtarlabzae&langs_count=5&theme=tokyonight&layout=compact" height="150" />
 </a>
 <br>
-<!-- Activity graph replacement -->
-<img 
-  src="https://github-readme-activity-graph.cyclic.app/graph?username=kawtarlabzae&theme=rogue" 
-  width="100%" 
-  height="200" 
-  alt="GitHub Activity Graph" 
-/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouvh&theme=radical" />
+</p>
+
 
 <hr>
 
