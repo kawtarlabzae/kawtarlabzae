@@ -13,17 +13,6 @@
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawtarlabzae&theme=tokyonight&show_icons=true" height="150" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawtarlabzae&langs_count=5&theme=tokyonight&layout=compact" height="150" />
-</a>
-<br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouvh&theme=radical" />
-</p>
 
 
 <hr>
