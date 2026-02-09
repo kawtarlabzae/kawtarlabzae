@@ -66,7 +66,7 @@
 
 <h2>✨ Connect with Me</h2>
 <p>
-  <a href="www.linkedin.com/in/kawtar-labzae/">
+  <a href="[www.linkedin.com/in/kawtar-labzae/](https://www.linkedin.com/in/kawtar-labzae-370b25306/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
