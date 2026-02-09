@@ -5,8 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<!-- Typing SVG (optional, just a fun touch) -->
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=198cff&center=false&vCenter=false&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer;Open+to+Collaborations;Always+Learning+New+Technologies" alt="Typing SVG" />
+
 
 <p>
   <b>💡 Passionate about coding, problem-solving, and building impactful applications.</b>
